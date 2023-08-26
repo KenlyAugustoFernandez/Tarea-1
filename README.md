@@ -6,7 +6,7 @@ Algoritmo ConversionUnidadesLongitud
     Leer centimetros
 	
     Escribir "Opciones para trabajar : metros, yardas, varas, pulgadas, pies"
-    Escribir "A qué unidad desea convertir:"
+    Escribir "A quÃ© unidad desea convertir:"
     Leer unidad_objetivo
 	
     Si unidad_objetivo = "metros" Entonces
